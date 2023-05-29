@@ -1,0 +1,8 @@
+Calculadora
+
+Exercícios
+- display diminuindo os números
+- botao "C" para apagar o ultimo número digitado caso o usuário tenha errado
+
+Ideias
+- Deixar a barra superior da mesma cor do display -> setUndecorated(true) e criar a própria barra com a cor desejada
